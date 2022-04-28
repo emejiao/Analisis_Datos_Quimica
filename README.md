@@ -1,7 +1,7 @@
-# Curso_python_ICICB
-![image](https://user-images.githubusercontent.com/64866118/138519777-10a37509-5d82-4a54-899e-f9b2c3885f0a.png)
+# Analisis y Tratamiento de Datos en Química
 
-<font color='orange' size=6 align='center'><p style='text-align: center;'>**Curso Precongreso (1-CICB): Python en Ciencias Biomédicas**\
-<font color=cian size=5 align='center'>**Enrique Mejía Ospino,**\
-<font color=cian size=5 align='center'>**Universidad Industrial de Santander**
+Este es una asignatura electiva del programa de Química de la Universidad Industrial de Santander.  La asignatura se desarrolla
+en Python utilizando como herramientas de trabajo los Cuaderno de Jupyter (*Jupyter Notebook*). El Objetivo del curso es que los estudiantes 
+del programa utilicen herramientas computacionales que le permitan inspecionar, visualizar y procesar los datos científicos a partir del análisis estadístico
+descriptivo.
   
